@@ -1,14 +1,8 @@
-Flask==1.1.1
-gunicorn==19.9.0
-keras==2.4.3
-Jinja2==2.10.1
-MarkupSafe==1.1.1
-Werkzeug==0.15.5
 numpy>=1.9.2
 scipy>=0.15.1
-scikit-learn>=0.18
+scikit-learn==0.22.1
 matplotlib>=1.4.3
 pandas>=0.19
-flasgger==0.9.4
 streamlit
+keras==2.4.3
 tensorflow==2.3.0
